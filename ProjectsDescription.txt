@@ -1,6 +1,42 @@
-//Matches Are Every Friday: 4:00PM - 6:00PM - 8:00PM
-//Each Friday Contains 10 Matches
-//Each Time Slot Contains 3 Matches Except the Last Contains 4 Matches
-//The App Will Generate randomly all matches scheduled before the season starts.
-//The App Will Save all the Data in Files
-//No one can edit the data from the files after the season start
+1. System Data (Structs should be created for):
+        User: ID, Name, Password, Role.
+        Player: ID, Name, birth date, nationality.
+        Team: ID, Name, Players (array- 34).
+        League: ID, Teams (array - 20), Matches (array - 190), Table (array - 20).
+        Match: ID, TeamHome, TeamAway, StartDate, Result.
+        Result: ID, TeamHomeGoals, TeamAwayGoals.
+        TableRecord: ID, No, TeamName, Points.
+
+2. Admin Functions:
+        1. Log in.
+        2. Start generation of the schedule.
+        3. Add season start date
+        4. Add teams just once before the season starts.
+        5. Add players just once before the season starts.
+        6. Add the results after the end of each match.
+        7. All other users function.
+        8. Log out.
+
+3. User Functions:
+        1. Log in.
+        2. See the information about each team.
+        3. See the information about each player.
+        4. See the information about each match.
+        5. See the schedule.
+        6. See the table.
+        7. Sign up.
+        8. Log out.
+
+Program Functions
+        1. Login
+        2. Logout
+        3. Sign up
+        4. Generation of the schedule
+        5. Add Team
+        6. Add Player
+        7. Add Match Result
+        8. View Team Info
+        9. View Player Info
+        10. View Match Result
+        11. View Schedule
+        12. View Table
