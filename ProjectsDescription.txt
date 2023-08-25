@@ -1,3 +1,8 @@
+#### Only Use    
+            -Lists            
+            -Functions
+            -Classes
+
 1. System Data (Structs should be created for):
         User: ID, Name, Password, Role.
         Player: ID, Name, birth date, nationality.
