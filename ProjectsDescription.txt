@@ -1,7 +1,3 @@
-
-//Each Team Has 34 Players
-//Each Player Has: Name - Birth Date - Nationality
-//Each Team Playes Against the Other 19 Teams ONCE in the Season
 //Matches Are Every Friday: 4:00PM - 6:00PM - 8:00PM
 //Each Friday Contains 10 Matches
 //Each Time Slot Contains 3 Matches Except the Last Contains 4 Matches
