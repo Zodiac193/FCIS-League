@@ -1,4 +1,2 @@
-# FCIS-League-System 
-C# .NET 6 
+# League-System 
 
-Array & Struct 
