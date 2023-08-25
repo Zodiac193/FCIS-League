@@ -10,3 +10,4 @@
 //The App Will Save all the Data in Files
 //No one can edit the data from the files after the season start
 
+Console.WriteLine("Hello World");
