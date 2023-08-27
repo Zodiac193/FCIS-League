@@ -1,5 +1,4 @@
-import TeamClass as t
-import PlayerClass as p
+
 
 #20 Teams
 # Teams = t[20]
