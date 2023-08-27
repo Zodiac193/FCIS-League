@@ -1,10 +1,10 @@
 
-import PlayerClass
+import Player_class
 
 class Team:
     ID=0
     Name=""
-    Team_Players = PlayerClass[34]
+    Team_Players = Player_class[34]
     pass
 
     

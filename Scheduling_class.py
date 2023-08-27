@@ -1,4 +1,4 @@
-import matches as M
+import Matche_class as M
 
 class Timing:
     Day = "Friday"
