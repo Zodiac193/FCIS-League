@@ -1,7 +1,5 @@
-import Matches_Class
-import PlayerClass
-import TeamClass
-import Scheduling
+import Matche_class,Player_class,Team_class,Scheduling_class
 
 class Admin:
+    
     pass
